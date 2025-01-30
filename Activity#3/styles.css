@@ -1,0 +1,29 @@
+body {
+    padding: 25px;
+  }
+  
+  h1 {
+    font-family: Georgia, serif;
+    font-size: 50px;
+    text-align: left;
+  }
+  
+  p {
+    font-weight: lighter;
+    font-style: Arial;
+    color: gray;
+    font-size: 30px;
+    margin-right: 300px
+  }
+  
+  .container {
+    margin-left: 100px;
+  }
+  
+  img {
+    position: absolute;
+    top: 0;
+    right: 0; /* This will place the image on the top-right */
+    margin-bottom: 100px;
+  }
+  
